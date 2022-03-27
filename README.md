@@ -1,4 +1,4 @@
-# Student Database Prooject
+# Student Database Project
 - Cleaned, standardised and normalised a student test score database. 
 - This database in then stored and loaded into SQL 
 - I then export this database, creating specific classifications for hardworking, overall performance and underperforming students
